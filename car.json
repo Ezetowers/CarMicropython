@@ -1,0 +1,15 @@
+{
+    "left_engine": {
+        "pin_up": 13,
+        "pin_down": 15        
+    },
+    "right_engine": {
+        "pin_up": 14,
+        "pin_down": 12
+    },
+    "throttle": {
+        "pin_pwm": 5,
+        "pwm_step": 100
+    }
+}
+
